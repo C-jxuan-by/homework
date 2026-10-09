@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sorce/Start.jpg</file>
+        <file>sorce/End.jpg</file>
+        <file>sorce/Pause.jpg</file>
+        <file>sorce/left.png</file>
+        <file>sorce/right.png</file>
+        <file>sorce/I.png</file>
+        <file>sorce/I-1_3.png</file>
+        <file>sorce/rotate.png</file>
+        <file>sorce/J.png</file>
+        <file>sorce/L.png</file>
+        <file>sorce/O.png</file>
+        <file>sorce/S.png</file>
+        <file>sorce/T.png</file>
+        <file>sorce/Z.png</file>
+        <file>sorce/II.png</file>
+        <file>sorce/JJ.png</file>
+        <file>sorce/LL.png</file>
+        <file>sorce/OO.png</file>
+        <file>sorce/SS.png</file>
+        <file>sorce/TT.png</file>
+        <file>sorce/ZZ.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
