@@ -21,3 +21,5 @@ int main(int argc, char *argv[])
     w.show();
     return a.exec();
 }
+
+//******进行了一些修改*****
